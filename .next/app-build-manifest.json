@@ -1,0 +1,83 @@
+{
+  "pages": {
+    "/_not-found": [
+      "static/chunks/webpack-47997bb585333671.js",
+      "static/chunks/fd9d1056-ffbd49fae2ee76ea.js",
+      "static/chunks/472-c179bd894bdbbd25.js",
+      "static/chunks/main-app-d2495793bc8732f9.js",
+      "static/chunks/app/_not-found-21300f601eee6904.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-47997bb585333671.js",
+      "static/chunks/fd9d1056-ffbd49fae2ee76ea.js",
+      "static/chunks/472-c179bd894bdbbd25.js",
+      "static/chunks/main-app-d2495793bc8732f9.js",
+      "static/chunks/159-a7d306353d0e8ac3.js",
+      "static/css/52d8f5348025bad6.css",
+      "static/chunks/app/layout-d8e7d832f314fdc0.js"
+    ],
+    "/blog/page": [
+      "static/chunks/webpack-47997bb585333671.js",
+      "static/chunks/fd9d1056-ffbd49fae2ee76ea.js",
+      "static/chunks/472-c179bd894bdbbd25.js",
+      "static/chunks/main-app-d2495793bc8732f9.js",
+      "static/chunks/app/blog/page-aa2f3f629ee1323d.js"
+    ],
+    "/contact/page": [
+      "static/chunks/webpack-47997bb585333671.js",
+      "static/chunks/fd9d1056-ffbd49fae2ee76ea.js",
+      "static/chunks/472-c179bd894bdbbd25.js",
+      "static/chunks/main-app-d2495793bc8732f9.js",
+      "static/chunks/app/contact/page-633b9ca784dd022d.js"
+    ],
+    "/forex-payment-processing/page": [
+      "static/chunks/webpack-47997bb585333671.js",
+      "static/chunks/fd9d1056-ffbd49fae2ee76ea.js",
+      "static/chunks/472-c179bd894bdbbd25.js",
+      "static/chunks/main-app-d2495793bc8732f9.js",
+      "static/chunks/app/forex-payment-processing/page-1de96e576f7e7b7a.js"
+    ],
+    "/gaming-payment-solutions/page": [
+      "static/chunks/webpack-47997bb585333671.js",
+      "static/chunks/fd9d1056-ffbd49fae2ee76ea.js",
+      "static/chunks/472-c179bd894bdbbd25.js",
+      "static/chunks/main-app-d2495793bc8732f9.js",
+      "static/chunks/app/gaming-payment-solutions/page-800cd092b45ad720.js"
+    ],
+    "/high-risk-merchant-account/page": [
+      "static/chunks/webpack-47997bb585333671.js",
+      "static/chunks/fd9d1056-ffbd49fae2ee76ea.js",
+      "static/chunks/472-c179bd894bdbbd25.js",
+      "static/chunks/main-app-d2495793bc8732f9.js",
+      "static/chunks/app/high-risk-merchant-account/page-1823c3a179a8430c.js"
+    ],
+    "/industries/page": [
+      "static/chunks/webpack-47997bb585333671.js",
+      "static/chunks/fd9d1056-ffbd49fae2ee76ea.js",
+      "static/chunks/472-c179bd894bdbbd25.js",
+      "static/chunks/main-app-d2495793bc8732f9.js",
+      "static/chunks/app/industries/page-87a0a1de415336da.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-47997bb585333671.js",
+      "static/chunks/fd9d1056-ffbd49fae2ee76ea.js",
+      "static/chunks/472-c179bd894bdbbd25.js",
+      "static/chunks/main-app-d2495793bc8732f9.js",
+      "static/chunks/app/page-922d7c196ab1a08f.js"
+    ],
+    "/solutions/page": [
+      "static/chunks/webpack-47997bb585333671.js",
+      "static/chunks/fd9d1056-ffbd49fae2ee76ea.js",
+      "static/chunks/472-c179bd894bdbbd25.js",
+      "static/chunks/main-app-d2495793bc8732f9.js",
+      "static/chunks/app/solutions/page-6f2afdd40b556a8b.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack-47997bb585333671.js",
+      "static/chunks/fd9d1056-ffbd49fae2ee76ea.js",
+      "static/chunks/472-c179bd894bdbbd25.js",
+      "static/chunks/main-app-d2495793bc8732f9.js",
+      "static/chunks/app/about/page-84ff8e4507f681f5.js"
+    ]
+  }
+}
