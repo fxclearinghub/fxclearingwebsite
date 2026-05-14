@@ -1,9 +1,16 @@
-const config = {
+// open-next.config.ts
+
+import { defineCloudflareConfig } from "@opennextjs/cloudflare";
+
+export default defineCloudflareConfig({
   default: {
     override: {
       wrapper: "cloudflare-node",
       converter: "edge",
       proxyExternalRequest: "fetch",
+      incrementalCache: "dummy",
+      tagCache: "dummy",
+      queue: "direct",
     },
   },
 
@@ -13,10 +20,11 @@ const config = {
       wrapper: "cloudflare-edge",
       converter: "edge",
       proxyExternalRequest: "fetch",
+      incrementalCache: "dummy",
+      tagCache: "dummy",
+      queue: "direct",
     },
   },
 
   edgeExternals: ["node:crypto"],
-};
-
-export default config;
+});
