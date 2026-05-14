@@ -1,3 +1,16 @@
+import type { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  title: 'Forex Payment Processing | FX Clearing Hub',
+  description: 'Specialized payment processing for forex brokers. Secure, compliant solutions with high approval rates and global client acceptance.',
+  keywords: 'forex payment processing, forex broker payments, CFD payment solutions, forex merchant account, secure forex payments, compliant forex processing',
+  openGraph: {
+    title: 'Forex Payment Processing | FX Clearing Hub',
+    description: 'Specialized payment processing for forex brokers with secure, compliant solutions.',
+    type: 'website',
+  },
+};
+
 export default function ForexPaymentProcessing() {
   return (
     <main className="container mx-auto px-4 py-16">

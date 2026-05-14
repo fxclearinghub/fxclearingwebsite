@@ -1,4 +1,16 @@
+import type { Metadata } from 'next';
 import ContactForm from '@/components/ContactForm';
+
+export const metadata: Metadata = {
+  title: 'Contact FX Clearing Hub | Get Payment Processing Support',
+  description: 'Ready to start processing payments? Contact our experts for high-risk merchant accounts, forex payments, and gaming solutions. Get approved in 3-7 days.',
+  keywords: 'contact payment processing, merchant account support, forex payment help, gaming payment solutions, high-risk merchant support',
+  openGraph: {
+    title: 'Contact FX Clearing Hub | Get Payment Processing Support',
+    description: 'Ready to start processing payments? Contact our experts for high-risk merchant accounts and payment solutions.',
+    type: 'website',
+  },
+};
 
 export default function Contact() {
   return (

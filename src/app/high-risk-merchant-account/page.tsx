@@ -1,3 +1,16 @@
+import type { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  title: 'High-Risk Merchant Accounts | FX Clearing Hub',
+  description: 'Secure merchant accounts for high-risk industries. Get approved for forex, gaming, crypto, and affiliate businesses with our global banking network.',
+  keywords: 'high-risk merchant account, merchant account approval, forex merchant account, gaming merchant account, crypto merchant account, high-risk payment processing',
+  openGraph: {
+    title: 'High-Risk Merchant Accounts | FX Clearing Hub',
+    description: 'Secure merchant accounts for high-risk industries. Get approved for forex, gaming, crypto, and affiliate businesses.',
+    type: 'website',
+  },
+};
+
 export default function HighRiskMerchantAccount() {
   return (
     <main className="container mx-auto px-4 py-16">

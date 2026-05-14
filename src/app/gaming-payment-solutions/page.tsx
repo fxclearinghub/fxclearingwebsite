@@ -1,3 +1,16 @@
+import type { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  title: 'Gaming Payment Solutions | iGaming Payment Processing',
+  description: 'Flexible payment solutions for online gaming platforms. Secure transactions, higher conversion rates, and global reach for iGaming businesses.',
+  keywords: 'gaming payment processing, iGaming payments, online casino payments, gaming merchant account, secure gaming transactions, gaming payment gateway',
+  openGraph: {
+    title: 'Gaming Payment Solutions | iGaming Payment Processing',
+    description: 'Flexible payment solutions for online gaming platforms with secure transactions and global reach.',
+    type: 'website',
+  },
+};
+
 export default function GamingPaymentSolutions() {
   return (
     <main className="container mx-auto px-4 py-16">
