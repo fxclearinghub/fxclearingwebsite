@@ -1,1 +1,12 @@
-{"/_not-found/page":"/_not-found","/about/page":"/about","/blog/page":"/blog","/contact/page":"/contact","/forex-payment-processing/page":"/forex-payment-processing","/gaming-payment-solutions/page":"/gaming-payment-solutions","/high-risk-merchant-account/page":"/high-risk-merchant-account","/industries/page":"/industries","/page":"/","/solutions/page":"/solutions"}
+{
+  "/_not-found/page": "/_not-found",
+  "/blog/page": "/blog",
+  "/forex-payment-processing/page": "/forex-payment-processing",
+  "/gaming-payment-solutions/page": "/gaming-payment-solutions",
+  "/page": "/",
+  "/industries/page": "/industries",
+  "/solutions/page": "/solutions",
+  "/high-risk-merchant-account/page": "/high-risk-merchant-account",
+  "/contact/page": "/contact",
+  "/about/page": "/about"
+}
