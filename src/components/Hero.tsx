@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 export default function Hero() {
   return (
     <section className="bg-gradient-to-r from-blue-500 to-purple-600 text-white py-20">
@@ -10,12 +12,12 @@ export default function Hero() {
             Scalable, secure, and compliant payment solutions for forex brokers, gaming platforms, and high-risk businesses worldwide.
           </p>
           <div className="flex space-x-4 mb-6">
-            <button className="bg-white text-blue-600 px-6 py-3 rounded font-semibold hover:bg-gray-100">
+            <Link href="/contact#contact-form" className="bg-white text-blue-600 px-6 py-3 rounded font-semibold hover:bg-gray-100">
               Get Approved
-            </button>
-            <button className="border border-white text-white px-6 py-3 rounded font-semibold hover:bg-white hover:text-blue-600">
+            </Link>
+            <Link href="/contact#contact-form" className="border border-white text-white px-6 py-3 rounded font-semibold hover:bg-white hover:text-blue-600">
               Speak to an Expert
-            </button>
+            </Link>
           </div>
           <p className="text-sm">
             Supporting global merchants across EU, Asia & LATAM
